@@ -2,7 +2,7 @@ import csv
 import os
 
 # Define input file and output directory
-input_file = '/media/tower/zhangxx/m6a/18onent/one2one_ortho_than10.tsv'
+input_file = '~/m6a/18onent/one2one_ortho_than10.tsv'
 output_dir = 'output_files'
 
 # Create the output directory if it doesn't exist
