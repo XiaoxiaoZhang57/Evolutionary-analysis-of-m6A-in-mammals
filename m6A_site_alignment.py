@@ -3,8 +3,8 @@ from Bio import SeqIO
 from Bio.Align.Applications import ClustalOmegaCommandline
 
 # Define input and output directories
-input_dir = "/media/tower/zhangxx/m6a/18onent/fasta/fasta/"
-output_dir = "/media/tower/zhangxx/m6a/18onent/fasta/fasta/output/"
+input_dir = "~/m6a/18onent/fasta/fasta/"
+output_dir = "~/m6a/18onent/fasta/fasta/output/"
 
 # Ensure the output directory exists
 if not os.path.exists(output_dir):
