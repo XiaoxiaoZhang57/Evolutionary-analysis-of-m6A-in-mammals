@@ -70,3 +70,4 @@ p <- ggplot(data,aes(x=seurat_clusters,y=value,fill=variable))+
     )+ scale_fill_manual(values=c("#C56C66", "#D6B36C", "#82B6CE"))
 
 ggsave(p, file='3tissue_21species_motif_prob1.pdf', width=6, height=12)
+
