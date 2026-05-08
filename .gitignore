@@ -1,0 +1,33 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
+
+# system files
+.DS_Store
+
+# large sequencing/data files
+*.fast5
+*.fastq
+*.fq
+*.bam
+*.sam
+*.cram
+*.bed
+*.bigWig
+*.bw
+*.h5
+*.hdf5
+*.tar
+*.tar.gz
+*.zip
+*.gz
+
+# output folders
+results/
+tmp/
+temp/
