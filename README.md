@@ -1,5 +1,7 @@
 # Evolutionary analysis of m6A RNA modification in mammals
 
+[![DOI](https://zenodo.org/badge/992484152.svg)](https://doi.org/10.5281/zenodo.20085328)
+
 This repository contains the main scripts used for the analyses presented in the manuscript:
 
 **Evolutionary Landscape of m6A RNA Modification in Mammals**
@@ -124,9 +126,9 @@ Rscript Gene_Expression_vs_Tissue_Modification_Level_PGLS.R
 
 This repository contains the code and documentation used for the analyses in the manuscript.
 
-The version of the code associated with the publication will be archived in Zenodo.
+The version of the code associated with the publication has been archived in Zenodo.
 
-Zenodo DOI: to be added after deposition.
+Zenodo DOI: [https://doi.org/10.5281/zenodo.20085328](https://doi.org/10.5281/zenodo.20085328)
 
 Raw and processed sequencing data are available from the data repositories described in the manuscript.
 
